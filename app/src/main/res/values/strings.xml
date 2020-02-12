@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">assi_2</string>
+    <string name="btn1">Sign In</string>
+    <string name="article">Article</string>
+    <string name="btn2">Post</string>
+    <string name="postnow">Post</string>
+</resources>
